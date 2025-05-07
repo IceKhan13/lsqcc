@@ -1,6 +1,20 @@
-########################
-Venue & contacts (LSQCC)
-########################
+#############################
+Submission & contacts (LSQCC)
+#############################
+
+**Submission**
+
+`Submission for SC25 workshops at Linklings <https://submissions.supercomputing.org/>`_
+
+Deadline: 2025-10-16
+
+
+**Steering committee**
+
+* `Antonio Córcoles <https://scholar.google.com/citations?user=_nYGfnIAAAAJ&hl=en&oi=ao>`_, IBM
+* `Jay Gambetta <https://scholar.google.com/citations?user=690ygNAAAAAJ&hl=en&oi=ao>`_, IBM
+* `Max Rossmannek <https://scholar.google.com/citations?user=haAGoFsAAAAJ&hl=en>`_, IBM
+* `Iskandar Sitdikov <https://scholar.google.com/citations?user=isCe0IgAAAAJ&hl=en>`_, IBM
 
 **Venue**
 
